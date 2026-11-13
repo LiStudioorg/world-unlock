@@ -2,7 +2,9 @@
 
 一个纯前端的 Minecraft（基岩版）存档解密工具，主要面向网易版存档。所有处理都在浏览器本地完成，文件不会上传到任何服务器。
 
-**在线使用**：https://listudioorg.github.io/world-unlock/
+**主站**：https://mcwyjm.z321.cc.cd/
+
+**备用**：https://listudioorg.github.io/world-unlock/
 
 **English**: A browser-based Minecraft (Bedrock) world decryptor, primarily targeting NetEase worlds. Everything runs locally — nothing is uploaded.
 
